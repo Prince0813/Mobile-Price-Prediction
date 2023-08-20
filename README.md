@@ -1,1 +1,2 @@
 # Mobile-Price-Prediction
+Mobile price prediction refers to the process of using various data analysis and machine learning techniques to estimate the price of a mobile phone based on its features, specifications, and other relevant factors. This predictive model can assist consumers, manufacturers, and retailers in making informed decisions about pricing strategies, purchasing, and inventory management.
